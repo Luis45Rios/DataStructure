@@ -1,10 +1,10 @@
-// Question 1: Use console.log to output your full name to the console.
+// Pregunta 1: Utiliza `console.log` para mostrar tu nombre completo en la consola.
 console.log("Luis Humberto Rios Barrera")
 
-// Question 2: Output your year of birth.
+// Pregunta 2: Muestra tu año de nacimiento.
 console.log("2006")
 
-// Question 3: Try again to output your year of birth, this time passing the date without the quotes.
+// Pregunta 3: Intenta de nuevo mostrar tu año de nacimiento, esta vez pasando la fecha sin comillas.
 console.log(2006)
 
 // Pregunta 4: Podemos pasar varios argumentos a console.logseparados por comas, por ejemplo:
